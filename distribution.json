@@ -425,6 +425,16 @@
             "url": "https://raw.githubusercontent.com/Kyujin0526/libero-distro/main/servers/liberopixelmon-1.16.5/forgemods/required/voicechat-forge-1.16.5-2.5.22.jar",
             "MD5": "9d1ecaa3e01a3542d67b9e430699798a"
           }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 4610,
+            "url": "https://raw.githubusercontent.com/Kyujin0526/libero-distro/main/servers/liberopixelmon-1.16.5/files/options.txt",
+            "path": "options.txt"
+          }
         }
       ]
     }
