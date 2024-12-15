@@ -12,7 +12,7 @@
       "name": "liberopixelmon (Minecraft 1.16.5)",
       "description": "liberopixelmon Running Minecraft 1.16.5 (Forge v36.2.39)",
       "icon": null,
-      "version": "1.0.0",
+      "version": "1.0.1",
       "address": "localhost:25565",
       "minecraftVersion": "1.16.5",
       "discord": {
@@ -407,13 +407,13 @@
           }
         },
         {
-          "id": "com.pixelmonmod:pixelmon:9.1.12@jar",
+          "id": "com.pixelmonmod:pixelmon:9.1.13@jar",
           "name": "Pixelmon Mod",
           "type": "ForgeMod",
           "artifact": {
-            "size": 424790869,
-            "url": "https://cdn.modrinth.com/data/59ZceYlU/versions/zogGWRSd/Pixelmon-1.16.5-9.1.12-universal.jar",
-            "MD5": "323fe1bfffaceecc0f64e040a5509060"
+            "size": 427522531,
+            "url": "https://cdn.modrinth.com/data/59ZceYlU/versions/CPLYWxEL/Pixelmon-1.16.5-9.1.13-universal.jar",
+            "MD5": "08f2991eaf207cdcc2bf8a48866d3b52"
           }
         },
         {
